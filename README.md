@@ -2,22 +2,22 @@
 1. Project Title / Headline
 HR Analytics Dashboard – Employee Attrition, Performance & Workforce Insights
 
-2. Short Description / Purpose
+3. Short Description / Purpose
 This HR Analytics Dashboard is designed to help organizations monitor employee attrition, workforce distribution, and performance trends.
 The dashboard provides data-driven insights to HR managers and leadership teams, enabling them to identify attrition risks, improve employee retention, and optimize workforce planning.
 
-3. Tech Stack
+4. Tech Stack
  Power BI – Data visualization & dashboard creation
  Power Query – Data cleaning and transformation
  DAX (Data Analysis Expressions) – Calculated measures & KPIs
  Microsoft Excel / CSV – Raw data handling
  Kaggle Dataset – HR analytics dataset
 
-4. Data Source
+5. Data Source
 Kaggle – HR Analytics Dataset
 (Employee attrition, job role, department, salary, age, experience, performance rating, work-life balance, etc.)
 
-5. Features / Highlights
+6. Features / Highlights
 
   🔹 Business Problem
 Organizations often face challenges such as:
@@ -70,3 +70,4 @@ Poor work-life balance correlates with increased attrition
 Attrition varies significantly by age group and experience
 
 6. Screenshort
+  https://github.com/shrutiwad0308/HR-Dashboard/blob/main/HRdashboard.jpg
